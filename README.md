@@ -27,7 +27,7 @@ Frontend
 
 ⚛️ React
 ⏭️ Next.js
-🎨 CSS3 | SASS | Bootstrap
+🎨 CSS3 | SASS | Bootstrap | Tailwind CSS
 
 Lenguajes
 
