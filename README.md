@@ -74,7 +74,9 @@ Iniciar mi carrera como desarrollador web, participar en proyectos reales y cont
 📫 Contacto
 
 💻 GitHub: (tu link)
+
 📩 Mail: Ramipiacentini1@gmail.com
+
 📍 Cordoba, Argentina
 
 
